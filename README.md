@@ -28,10 +28,37 @@ PROCEDURE:
 4. The zener current (lz), and the zener voltage (Vz.) are observed and then noted in the tabular form.
 4. A graph is plotted between zener current (Iz) on y-axis and zener voltage (Vz) on x-axis.
 OBSERVATIONS:
+LINE REGULATION:
 
-REGULATION CHARACTERISTICS:
+|.SNO |INPUT VOLTAGE (V)| OUTPUT VOLTAGE(V) |
+|-----|-----------------|-------------------|
+|1    |12.0             |5.14               |
+|2    |13.0             |5.16               |
+|3    |14.0             |5.17               |
+|4    |15.0             |5.17               |
+|5    |16.0             |5.18               |
+|6    |17.0             |5.19               |
 
-V-I & REGULATION CHARACTERISTICS:
+LOAD REGULATION:
+
+|S.NO|LOAD RESISTENCE(Ω)|OUTPUT VOLTAGE(V)|
+|----|------------------|-----------------|
+|1   |100               |5.19             |
+|2   |200               |5.20             |
+|3   |300               |5.20             |
+|4   |400               |5.20             |
+|5   |500               |5.20             |
+|6   |600               |5.21             |
+
+CIRCUIT DIAGRAM:
+
+LINE REGULATION:
+
+![WhatsApp Image 2025-12-15 at 08 50 09_09e3998f](https://github.com/user-attachments/assets/45e9b689-56d7-44b1-a9d8-ac3d7d3fb3d2)
+
+LOAD REGULATION:
+
+![WhatsApp Image 2025-12-15 at 08 50 09_ca4ae519](https://github.com/user-attachments/assets/9a6a3c59-a95c-4e51-8cb8-02b3c84a3428)
 
 PRECAUTIONS:
 
